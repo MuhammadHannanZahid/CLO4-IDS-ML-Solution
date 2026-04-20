@@ -1,4 +1,4 @@
-# 🛡️ AI-Powered Intrusion Detection: Augmenting NIDS with Machine Learning
+# AI-Powered Intrusion Detection: Augmenting NIDS with Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikit-learn)
